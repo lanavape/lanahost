@@ -1,2 +1,17 @@
-# lanahost
-LANA電子煙主機
+#LANA電子煙主機：https://www.lana-vape.com/lana/
+lna電子煙皮革主機顏色：粉色/紫色/紅色/綠色/黃色/黑色/灰色/銀光綠/藍色
+![1-24120421511DA](https://github.com/user-attachments/assets/1365d563-45ab-4e4a-8aba-eb20ca6c6c21)
+![2](https://github.com/user-attachments/assets/8eb34289-9f2b-454d-bd5c-dc0f71c33bb4)
+![3](https://github.com/user-attachments/assets/189a3159-fdd0-4a99-9faf-c119aba4d977)
+![4](https://github.com/user-attachments/assets/d5424333-98f7-48ee-a418-e29fa498fa37)
+![5](https://github.com/user-attachments/assets/c1a665c5-3841-4a50-92e3-119066d0f8dc)
+![6](https://github.com/user-attachments/assets/5f4daa4d-1a73-4a32-b1f6-feca43952c94)
+![7](https://github.com/user-attachments/assets/c6f5d0c1-b422-4d2b-b19b-f90487a6a4a3)
+![8](https://github.com/user-attachments/assets/300b3aa5-fcfe-4e92-8fa9-9ee9b9a68fd8)
+LANA電子煙主機採用精選的高質感皮革材料，拉娜主機不僅展現出極致的奢華觸感，更帶來卓越的握持舒適度。每一次的使用都如同觸碰到精雕細琢的工藝藝術品，彰顯其尊貴品位。
+切換方式：快速拔插煙彈三次，即可在不同功率模式間切換。
+低功率模式：8W功率，適合喜歡清淡口感的使用者。
+高功率模式：10W功率，為您提供強勁的味覺享受。
+拉納皮革主機搭載智能充電指示系統，直觀顯示充電進度，確保電池狀態持續穩定。這種便利的功能保證了持久的使用體驗，使每次充電都更加輕鬆順暢。
+LANA皮革主機兼容一代煙彈和配件，為使用者提供廣泛的選擇機會，享受多樣化的吸煙體驗。
+請勿使用快充頭進行充電，以避免損壞電子煙主機，確保設備長久使用壽命。
